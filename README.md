@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, NextJS, CSS, Tailwind, NodeJS, ZOD, JWT, TypeScript**
 
-- 📫 How to reach me **saurabhcomputercoder@gmail.com**
+- 📫 Contact me - **saurabhcomputercoder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
